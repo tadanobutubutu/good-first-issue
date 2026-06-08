@@ -3,6 +3,5 @@
   "compilerOptions": {
     "noUnusedLocals": false,
     "noUnusedParameters": false
-  },
-  "//": "Disabling unused checks in tests to allow for certain test setup variables that are not used directly."
+  }
 }
