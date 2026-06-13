@@ -11,6 +11,14 @@ Welcome! 👋🏼
 
 Open-source maintainers are always looking to get more people involved, but new developers generally think it's challenging to become a contributor. We believe getting developers to fix super-easy issues removes the barrier for future contributions. This is why Good First Issue exists.
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![PyPI version](https://img.shields.io/pypi/v/good-first-issue?style=flat-square&logo=pypi&color=green) ![PyPI downloads](https://img.shields.io/pypi/dm/good-first-issue?style=flat-square&color=brightgreen) ![PyPI license](https://img.shields.io/pypi/l/good-first-issue?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-0.1.0-blue?style=flat-square)](https://pypi.org/project/good-first-issue)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
+
 ## Adding a new project
 
 You're welcome to add a new project to Good First Issue, and we encourage all projects &mdash; old and new, big and small.
